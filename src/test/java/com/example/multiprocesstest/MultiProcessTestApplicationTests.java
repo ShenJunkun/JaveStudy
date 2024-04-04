@@ -8,6 +8,16 @@ class MultiProcessTestApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
+
+
+
+
+    @Test
+    void testDiffLock() {
+
+    }
+
 
 }

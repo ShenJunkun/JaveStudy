@@ -1,4 +1,4 @@
-package com.example.multiprocesstest.basegrammer;
+package com.example.multiprocesstest.BasicGrammer;
 
 public class test {
     public static void main(String[] args) {

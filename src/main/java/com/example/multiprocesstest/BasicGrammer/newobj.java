@@ -1,4 +1,4 @@
-package com.example.multiprocesstest.basegrammer;
+package com.example.multiprocesstest.BasicGrammer;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

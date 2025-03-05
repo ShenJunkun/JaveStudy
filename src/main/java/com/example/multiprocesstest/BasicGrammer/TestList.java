@@ -1,4 +1,4 @@
-package com.example.multiprocesstest.basegrammer;
+package com.example.multiprocesstest.BasicGrammer;
 
 import java.util.concurrent.CopyOnWriteArrayList;
 
